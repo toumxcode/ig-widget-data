@@ -1,5 +1,4 @@
-import fetch from "node-fetch";
-import fs from "fs";
+const fs = require("fs");
 
 const usernames = ["madan69993", "jafar.abdalrhman"];
 
